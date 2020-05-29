@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9012a616-8d2d-42f7-ad92-ba08a8a652b6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/TML/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/TML/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="9012a616-8d2d-42f7-ad92-ba08a8a652b6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,8 +56,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TML/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="121" column="12" selection-start-line="121" selection-start-column="12" selection-end-line="121" selection-end-column="12" />
+            <state relative-caret-position="241">
+              <caret line="114" lean-forward="true" selection-start-line="114" selection-end-line="114" />
             </state>
           </provider>
         </entry>
@@ -189,10 +187,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24305004" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.062748216" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
@@ -283,8 +280,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TML/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="121" column="12" selection-start-line="121" selection-start-column="12" selection-end-line="121" selection-end-column="12" />
+        <state relative-caret-position="241">
+          <caret line="114" lean-forward="true" selection-start-line="114" selection-end-line="114" />
         </state>
       </provider>
     </entry>
