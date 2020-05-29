@@ -25,7 +25,7 @@ SECRET_KEY = 'lwq8@)noksqmty8!0=v1$=uzhe_&uybmc^wt6j*@#*lv7ologs'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['questtml.herokuapp.com']
 
 
 # Application definition
